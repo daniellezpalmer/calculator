@@ -10,3 +10,7 @@ button.forEach(function(clicked) {
     }
   })
 })
+
+clearBtn.addEventListener('click', function() {
+  displayScreen.textContent = '';
+})
