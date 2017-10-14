@@ -1,4 +1,4 @@
-#Calculator - Week Three Project
+# Calculator
 - HTML
 - CSS
 - JavaScript
