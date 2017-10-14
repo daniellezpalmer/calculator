@@ -8,11 +8,11 @@ Create calculator using JS functions and algorithms.
 
 ## TODOS
 - [x] Create HTML for calculator
-- [ ] Add functionality
+- [x] Add functionality
 - [x] Style that bad boy
-- [ ] Add fun facts
+- [x] Add fun facts
 
 ## Challenges
-
+- Figuring out how to use eval
 
 ## Screenshot
