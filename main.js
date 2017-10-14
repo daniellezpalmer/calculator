@@ -14,3 +14,8 @@ button.forEach(function(clicked) {
 clearBtn.addEventListener('click', function() {
   displayScreen.textContent = '';
 })
+
+equalBtn.addEventListener('click', function() {
+  let result = eval(displayScreen.textContent)
+  displayScreen.textContent = result;
+})
